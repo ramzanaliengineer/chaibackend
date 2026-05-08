@@ -1,0 +1,17 @@
+{
+  "name": "full-course-backend-chaicode",
+  "version": "1.0.0",
+  "description": "A backend youtube channel",
+  "keywords": [
+    "javascript",
+    "backend",
+    "hafiz"
+  ],
+  "license": "ISC",
+  "author": "Hafiz Ramzan Ali",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
